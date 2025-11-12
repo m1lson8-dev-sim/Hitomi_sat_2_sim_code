@@ -1,4 +1,4 @@
-#Tragic ACS failure through precision and story telling (Heyo, reader, want some coffee? :D)
+#ACS Failure Sim
 import numpy as np
 import plotly.graph_objects as go
 from plotly.subplots import make_subplots
